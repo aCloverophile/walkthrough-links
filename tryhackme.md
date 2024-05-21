@@ -4,5 +4,8 @@
 
 - The Server From Hell: https://medium.com/@aCloverophile/tryhackme-the-server-from-hell-write-up-cd928dd4bd21
 
+- Looking Glass: https://medium.com/@aCloverophile/tryhackme-looking-glass-write-up-9816f31eb6eb
+
+
 
 
