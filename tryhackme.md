@@ -6,6 +6,7 @@
 
 - Looking Glass: https://medium.com/@aCloverophile/tryhackme-looking-glass-write-up-9816f31eb6eb
 
+- GoldenEye: https://medium.com/@aCloverophile/tryhackme-goldeneye-walkthrough-35c27b58f322
 
 
 
