@@ -8,5 +8,6 @@
 
 - GoldenEye: https://medium.com/@aCloverophile/tryhackme-goldeneye-walkthrough-35c27b58f322
 
+- Uranium CTF: https://medium.com/@aCloverophile/tryhackme-uranium-ctf-write-up-5513bb8b3081
 
 
