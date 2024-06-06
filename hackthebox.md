@@ -1,1 +1,1 @@
-***Soon...***
+- CozyHosting: https://medium.com/@aCloverophile/hackthebox-cozyhosting-write-up-5ced9655303d
